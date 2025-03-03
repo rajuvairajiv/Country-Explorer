@@ -1,0 +1,61 @@
+/* .country-info-table {
+    background-color: #181e3a;
+}
+
+
+strong {
+    color: #15628f;
+}
+
+.result {
+    color: #0556df;
+} */
+body {
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(249, 149, 9);
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+}
+
+.center-text {
+    display: block;
+    /* Makes the span act like a div */
+    text-align: center;
+}
+
+/* .box {
+    background-image: url("https://images.pexels.com/photos/3203659/pexels-photo-3203659.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-position: center;
+    background-repeat: no-repeat;
+    justify-content: center;
+} */
+
+.flag {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.country-info-table {
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result {
+    text-align: center;
+}
+
+.papa-table {
+
+    text-align: center;
+}
